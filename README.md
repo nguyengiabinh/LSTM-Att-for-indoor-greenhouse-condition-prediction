@@ -1,0 +1,1 @@
+<img src="Structure.png" alt="Model structure" style="zoom:50%;" />
